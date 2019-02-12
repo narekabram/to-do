@@ -1,0 +1,15 @@
+.header {
+  background-color: #9370DB;
+
+  &-wrapper {
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-between;
+
+    &-buttons {
+      span {
+        margin-right: 20px;
+      }
+    }
+  }
+}
